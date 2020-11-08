@@ -29,7 +29,7 @@ The user, avid traveler, wants to be able to track their withdrawals and deposit
 
 
 ## Screen Shots
-![Capture01.png](images/Capture01.PNG)  
+![capture.png](images/Capture01.PNG)  
 
 ## Installation
 1. download the repo from the link below  
